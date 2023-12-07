@@ -1,4 +1,4 @@
-# few-shot-learning-on-cancer-images
+# few-shot-learning-on-traffic-signs
 We first tried with CUB-200 datasets!
 
 few shot learning on cancer images
